@@ -1,1 +1,1 @@
-# exercise
+# learning exercise Java
